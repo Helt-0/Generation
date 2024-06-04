@@ -10,7 +10,7 @@ public class Exercicio2 {
 		
 		float nota1, nota2, nota3, nota4;
 		
-		System.out.print("Digite a primiera nota: ");
+		System.out.print("Digite a primeira nota: ");
 		nota1 = leia.nextFloat();
 		
 		System.out.print("Digite a segunda nota: ");
