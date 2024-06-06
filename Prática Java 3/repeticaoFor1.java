@@ -33,6 +33,7 @@ public class repeticaoFor1 {
 
 		}
 		else {System.out.print("Intervalo inválido!");}
+	    leia.close();
 	}
 
 }

@@ -22,6 +22,8 @@ public class repeticaoWhile1 {
 		}
 		System.out.printf("Total de pessoas menores de 21 anos: %d", menor);
 		System.out.printf("\nTotal de pessoas maiores de 50 anos: %d", maior);
+	   
+		leia.close();
 	}
 
 }
