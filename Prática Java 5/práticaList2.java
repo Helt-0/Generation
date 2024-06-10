@@ -24,7 +24,7 @@ public class práticaList2 {
 
 		System.out.print("Digite o número que você deseja encontrar: ");
 		entrada = leia.nextInt();
-		if(numeros.indexOf(entrada)>0) {System.out.print("O número "+ entrada+ " está localizado na posição: "+numeros.indexOf(entrada));}
+		if(numeros.indexOf(entrada)>=0) {System.out.print("O número "+ entrada+ " está localizado na posição: "+numeros.indexOf(entrada));}
 		else {System.out.print("O número "+entrada+" não foi encontrado!");}
 
 		leia.close();
