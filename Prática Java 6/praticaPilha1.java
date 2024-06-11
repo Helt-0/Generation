@@ -14,7 +14,7 @@ public class praticaPilha1 {
 
 		System.out.println("***********************************************************************");
 		System.out.println("1: Adicionar um novo livro na pilha.");
-		System.out.println("2: Listar todos os Pilha.");
+		System.out.println("2: Listar todos os livros.");
 		System.out.println("3: Retirar um livro da pilha.");
 		System.out.println("0: Sair.");
 		System.out.print("***********************************************************************");
